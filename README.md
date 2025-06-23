@@ -31,6 +31,7 @@ A code crafter by day, a curious soul by heart — building digital dreams, byte
 🧠 Curious about everything from AI to ancient temples
 
 ⚡ Fun Fact
-I once built an app that teaches Indian culture… using just JSON and passion.
+"Through bugs and burnout, I build. Every error is just another step to execution."
+-From late nights to breakthroughs, I'm coding my story.
 
 
