@@ -18,7 +18,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GaneshMohta&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/GaneshMohta?label=Followers&style=for-the-badge&color=blue)
-![GitHub Following](https://img.shields.io/github/following/GaneshMohta?label=Following&style=for-the-badge&color=blueviolet)
 
 </div>
 
