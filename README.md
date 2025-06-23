@@ -1,4 +1,4 @@
-Hi there 👋 I'm Ganesh Maheshwari
+Hi there 👋 I'm Ganesh Mal (Mohta)
 A code crafter by day, a curious soul by heart — building digital dreams, byte by byte.
 
 🛠️ What I'm Up To
@@ -8,7 +8,7 @@ A code crafter by day, a curious soul by heart — building digital dreams, byte
 💡 Exploring the intersection of technology.
 
 🧩 Competitive Programming
-- 🐱‍💻 Solving DSA challenges on [LeetCode] https://leetcode.com/u/ganeshmal/
+- [![LeetCode Stats](https://leetcard.jacoblin.cool/ganeshmal?ext=contest&theme=unicorn)](https://leetcode.com/ganeshmal) 
 
 🤝 Let’s Collaborate
 👯 Open to working on web apps, interactive projects, or anything that combines tech with creativity.
@@ -28,7 +28,7 @@ A code crafter by day, a curious soul by heart — building digital dreams, byte
 🧘 Vegetarian, minimalist, and a lover of mindful design
 🧳 A traveler lover chasing culture, cuisine, and calm
 
-🧠 Curious about everything from AI to ancient temples
+🧠 Curious about everything from AI to ancient cultures
 
 ⚡ Fun Fact
 "Through bugs and burnout, I build. Every error is just another step to execution."
