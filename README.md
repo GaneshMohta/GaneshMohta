@@ -1,28 +1,22 @@
-Hi there 👋 I'm Ganesh Mal (Mohta)
-A code crafter by day, a curious soul by heart — building digital dreams, byte by byte.
-
-🛠️ What I'm Up To
-🔭 I’m currently working on a cultural-rich React app exploring India’s diversity through JSON-driven UI.
-
-🌱 Learning deep into React, and the art of clean coding, scalable design.
-💡 Exploring the intersection of technology.
+  <h1 align="center">Hi there 👋 I'm Ganesh Mal (Mohta)</h1>
 
 🧩 Competitive Programming
-- [![LeetCode Stats](https://leetcard.jacoblin.cool/ganeshmal?ext=contest&theme=unicorn)](https://leetcode.com/ganeshmal) 
+- [![LeetCode Stats](https://leetcard.jacoblin.cool/ganeshmal?ext=contest&theme=unicorn)](https://leetcode.com/ganeshmal)
 
-🤝 Let’s Collaborate
-👯 Open to working on web apps, interactive projects, or anything that combines tech with creativity.
-
-🧠 Always eager to swap knowledge on frontend performance, data structure logic, and backend architecture.
-
-💬 Ask Me About
-🧩 Breaking down complex tech into simple mental models
-🔐 Building secure auth systems (React + JWT + bcrypt kind of stuff)
-🧭 Organizing clean code and smart API structures
 
 📫 Reach Me At
-✉️ ganimaheshwari07@gmail.com
-🌐 https://www.linkedin.com/in/ganesh-mohta-480314251 
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ganesh-mohta-480314251" target="_blank">
+    <img height='28px' src="https://img.icons8.com/color/30/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/GaneshMohta2" target="_blank">
+    <img height='27px' src="https://t3.ftcdn.net/jpg/06/29/22/40/360_F_629224066_zdnJIKaJHiMkP6EOIoh6hvUxcnFpsbE1.jpg" alt="X (Twitter)"/>
+  </a>
+  <a href="mailto:ganimaheshwari07@gmail.com" target="_blank">
+    <img height='27px' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpb2UdIp13IvB9YgFD6FYmkVgtIueUcmXmQw&s" alt="Email"/>
+  </a>
+</p>
 
 😄 About Me
 🧘 Vegetarian, minimalist, and a lover of mindful design
